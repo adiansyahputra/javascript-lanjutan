@@ -1,0 +1,5 @@
+Membuat Object pada JavaScript 
+-Object Literal 
+-Function Declaration 
+-Constructor Function (keyword new)
+-Object.create()
