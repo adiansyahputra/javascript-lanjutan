@@ -1,0 +1,26 @@
+3.1 Arrow Function 
+
+Function Declaration 
+function tampilPesan (nama) {
+  alert('halo' + nama);
+}
+
+tampilPesan('adiansyah');
+
+Function Expression 
+let tampilPesan = function (nama) {
+  alert('halo' + nama);
+}
+
+tampilPesan('adiansyah');
+
+Arrow Function? 
+Bentuk lain yang lebih ringkas dari Function Expression 
+-MDN 
+
+Arrow Function
+let tampilPesan = (nama) => {
+  alert('halo' + nama);
+}
+
+tampilPesan('adiansyah');
