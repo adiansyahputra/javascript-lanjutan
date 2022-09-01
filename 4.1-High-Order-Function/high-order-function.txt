@@ -1,0 +1,25 @@
+Higher Order Function 
+"Function yang beroperasi pada function yang lain. Baik itu digunakan dalam argument, maupun sebagai return value."
+-https://eloquentjavascript.net 
+
+"Javascript memperlakukan function sebagai object."
+-sitepoint.com 
+
+function kerjakanTugas -> disebut higher order function 
+selesai -> disebut callback
+
+function kerjakanTugas(matakuliah, selesai) {
+  console.log(`Mulai mengerjakan tugas ${matakuliah} ...`);
+  selesai();
+}
+
+function selesai() {
+  alert('Selesai mengerjakan tugas!');
+}
+
+kerjakanTugas('Pemrograman Web', selesai);
+
+Contoh Higher Order Function 
+Array.prototype.map() 
+Array.prototype.filter()
+Array.prototype.reduce()
