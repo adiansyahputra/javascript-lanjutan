@@ -1,0 +1,12 @@
+Template Literal/Template String 
+
+"Template Literal adalah string literal yang memungkinkan adanya expression di dalamnya."
+-MDN Web Docs
+
+Template Literal 
+-Menggunakan ``back tick 
+-Multi-line String 
+-Embedded Expression 
+-HTML Fragments 
+-Expression Interpolation 
+-Tagged Template
