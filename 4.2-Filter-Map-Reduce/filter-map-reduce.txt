@@ -1,0 +1,4 @@
+Contoh Higher Order Function 
+Array.prototype.map() 
+Array.prototype.filter()
+Array.prototype.reduce()
