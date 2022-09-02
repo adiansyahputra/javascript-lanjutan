@@ -1,0 +1,9 @@
+Tagged Templates 
+"Bentuk yang lebih kompleks dari Template, memungkinkan kita 
+untuk membaca template literals melalui sebuah function."
+-MDN Web Docs
+
+Penggunaan lain 
+-Escaping HTML Tags 
+-Translation & Internationalization 
+-Styled Components
