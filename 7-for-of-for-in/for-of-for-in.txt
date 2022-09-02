@@ -1,0 +1,20 @@
+Looping BARU 
+for of & for in 
+
+for..of 
+"Creates a loop iterating over iterable object." 
+-MDN 
+
+iterable object 
+-String
+-Array 
+-Arguments / NodeList 
+-TypedArray 
+-Map 
+-Set 
+-User-defined Iterables 
+
+for..in -> UNTUK OBJEK
+"Creates a loop only iterating over enumerable." 
+-MDN 
+
