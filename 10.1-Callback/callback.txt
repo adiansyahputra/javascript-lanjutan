@@ -1,0 +1,9 @@
+Callback 
+"Function yang dikirimkan sebagai parameter pada 
+function yang lain."
+-MDN 
+
+Callback 
+"Function yang dieksekusi setelah fungsi lain selesai 
+dijalankan."
+-codeburst.io

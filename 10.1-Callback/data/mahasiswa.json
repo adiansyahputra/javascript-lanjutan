@@ -1,0 +1,23 @@
+[
+  {
+    "nama": "adiansyah putra",
+    "nim": "12192199",
+    "email": "adi@gmail.com",
+    "jurusan": "Sistem Informasi",
+    "idDosenWali": 1
+  },
+  {
+    "nama": "putra",
+    "nim": "12192199",
+    "email": "adi@gmail.com",
+    "jurusan": "Sistem Informasi",
+    "idDosenWali": 1
+  },
+  {
+    "nama": "radit putra",
+    "nim": "12192199",
+    "email": "adi@gmail.com",
+    "jurusan": "Sistem Informasi",
+    "idDosenWali": 1
+  }
+]
