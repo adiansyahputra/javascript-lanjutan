@@ -1,0 +1,34 @@
+Asynchronus Javascript 
+-Callback 
+-Promise 
+-ajax 
+-Async & Await 
+
+Javascript for beginner 
+"Bahasa pemrograman tingkat tinggi dan dinamis yang secara
+umum dapat berjalan pada browser." 
+-Wikipedia 
+
+Javascript 
+"Is a single-threaded, non-blocking, asynchronous and 
+concurrent language." 
+-latentflip
+
+Single-threaded 
+
+Thread 
+"Urutan eksekusi kode yang dapat dilakukan secara bebas atau 
+independent satu sama lain."
+
+asynchronous + single-threaded = concurrency 
+asynchronous + multi-threaded = parallelism 
+
+Kesimpulan 
+-Single vs Multi Thread 
+Lingkungan eksekusi 'task' 
+-Blocking vs Non-blocking 
+Teknik 'ngoding' (IO related)
+-Synchronous vs asynchronous 
+Teknik 'ngoding' (HTTP Request related) 
+Concurrent vs Parallel
+Lingkungan eksekusi 'task'
